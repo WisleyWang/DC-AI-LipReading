@@ -14,6 +14,8 @@
 
 初赛数据：[下载链接](https://pan.baidu.com/s/1WDr-T7nRdpDDJIORDbtZKw) 密码：s6qt
 
+备用下载连接：链接：https://pan.baidu.com/s/1Fl8xmlSRR6oHJwR1PUzhsQ 提取码：3Bt0 
+
 ##环境
 tensorboard   = 1.10.0                
 tensorboardX  =  1.6                   
